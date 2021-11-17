@@ -1,9 +1,7 @@
 # Cullison_DeepNL
-Puplic access to my research related to DeepNL
+Puplic access to my DeepNL research poster presented 19, Nov 2022 including additional info.
 
-This repository may only be temporary.  However, if this idea works out, I will post updates, papers, and presentation material here.
+See the files above.
 
-
-Cheers,
-
--Thomas
+- Poster: Cullison_DeepNL_Nov_2021_final.pdf 
+- Expanded background: Cullison_Expanded_Background_DeepNL_Nov_2021_Poster.pdf
